@@ -33,3 +33,13 @@
 Sigue las **[instrucciones](../../README.md)**, consulta las correcciones y aporta la tuya propia utilizando el lenguaje de programación que quieras.
 
 > Recuerda que cada semana se publica un nuevo ejercicio y se corrige el de la semana anterior en directo desde **[Twitch](https://twitch.tv/mouredev)**. Tienes el horario en la sección "eventos" del servidor de **[Discord](https://discord.gg/mouredev)**.
+
+#https://www.python.org/
+#
+'''
+my_var = test
+my_string = "Hola"
+my_int = 3
+my_float = 3.4
+my_bool = False
+print("Hola Python.")
